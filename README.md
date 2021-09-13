@@ -12,5 +12,7 @@ This can send a push notification to your mobile device when a potential trading
 Some information about these price patterns is included in the "Trading algorithm explanation" Google document. 
 Please note that I've had to censor certain parts of the document in compliance with my non-disclosure agreement with the company. I have also slightly modified certain elements of my code.
 
+Strategy information: https://docs.google.com/document/d/1L7YC2At5g0M29YjewITqGvJC314xmbAjhSCqDr6a56A/edit?usp=sharing
+
 The file "TradingFeatures.mq4" can interface with Metatrader 4 charts to place and exit trades as well as calculate correct risk management automatically.
 We decided to use neural networks for this going forward as certain price structures can be very subjective, requiring experience in trading and difficult to code with fixed rules.
