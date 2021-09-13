@@ -2,7 +2,7 @@
 
 These files contain some of my work for Forex Identity LLC
 
-The Metatrader 4 platform is required to run this code, so i've included some images of trades which this algorithm has detected in the past.
+The Metatrader 4 platform is required to run this code and can be tedious to set up, so i've included some images of trades which this algorithm has detected in the past.
 
 Example images: https://docs.google.com/document/d/1tOp1vfcAzP59QPahXhtcTyOoI4wKZ4C6N8JfxtYxG_M/edit?usp=sharing
 
